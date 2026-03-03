@@ -19,8 +19,9 @@ Given two rectangles **A** and **B** defined by their bottom-left and top-right 
 ## Project Structure
 
 ```
-- rectangles.cpp    # Main source file containing Rectangles class and test cases
-- README.md         # This file
+- Rectangles_Exercise.docx  # Problem statement
+- rectangles.cpp            # Main source file containing Rectangles class and test cases
+- README.md                 # This file
 ```
 
 ---
@@ -91,6 +92,8 @@ Case 12: Rectangles are adjacent on the Y axis
 | 10   | Partial overlap          | Rectangles intersect         |
 | 11   | B contains A             | A is inside B                |
 
-![test cases 1] (./testcases_1.png)
-![test cases 2] (./testcases_2.png)
+![test cases 1] (testcases_1.png)
+
+![test cases 2] (testcases_2.png)
+
 ---
