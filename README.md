@@ -91,9 +91,11 @@ Case 12: Rectangles are adjacent on the Y axis
 | 9    | B contains A             | A is inside B                |
 | 10   | Partial overlap          | Rectangles intersect         |
 | 11   | B contains A             | A is inside B                |
+| 12   | Shared vertical edge     | Adjacent on the Y axis       |
 
-![test cases 1] (testcases_1.png)
 
-![test cases 2] (testcases_2.png)
+![test cases 1](testcases_1.png)
+
+![test cases 2](testcases_2.png)
 
 ---
